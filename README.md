@@ -1,11 +1,11 @@
 <p>
-Soon-to-be Business graduate with a mindset of excellence, <br>
-efficiency, and optimism, as well as a passion for the arts, <br>
-technology, small businesses, natural health, and ecology.</p>
+Magna Cum Laude BS Business graduate with a constant goal of excellence, efficiency, and optimism, as well as a passion for the arts, technology, small businesses, natural health, and ecology.</p>
 <br>
+I'm passionate about:<br>
 <p>
-Spirituality. ✨ Anime. 🎨<br>
+Anime. 🎨<br>
 Video games. 🎮<br>
-Business. 🧾 Plants. 🌱<br>
-Programming. 💻<br>
-🌸🌹 🌺</p>
+Spirituality. ✨ <br>
+Business. 🧾<br>
+Plants. 🌱<br>
+Tech. 💻<br>
